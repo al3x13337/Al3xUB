@@ -21,6 +21,5 @@ async def amireallyalive(alive):
                      "`- NTC Bomber\n`"
                      "`- Temp-Mail\n`"
                      "`- Torlink and\n`"
-                     "`- Magnet link\n`"
-                     "`- Bin Checker\n\n`"
+                     "`- Magnet link\n\n`"
                      "Special Thanks To @Dr34m_C4t and @scifidemon For Scripts.\n")
